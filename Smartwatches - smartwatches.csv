@@ -1,0 +1,12 @@
+Brand,Model,Operating System,Connectivity,Display Type,Display Size (inches),Resolution,Water Resistance (meters),Battery Life (days),Heart Rate Monitor,GPS,NFC,Price (USD),sentiment_score
+,,,,,,,,,,,,,
+Apple,Watch SE,watchOS,"Bluetooth, Wi-Fi, GPS",Retina,1.78,324 x 394,50,18,Yes,Yes,Yes,$279,0.9412
+Samsung,Galaxy Watch 4,Wear OS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.4,450 x 450,50,40,Yes,Yes,Yes,$249,0.9245
+Fossil,Gen 6,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.28,416 x 416,30,24,Yes,Yes,Yes,$299,0.8739
+Garmin,Venu 2,Garmin OS,"Bluetooth, Wi-Fi",AMOLED,1.3,416 x 416,50,11,Yes,Yes,No,$399,0.9467
+Fitbit,Versa 3,Fitbit OS,"Bluetooth, Wi-Fi",AMOLED,1.58,336 x 336,50,6,Yes,Yes,Yes,$229,0.9912
+Huawei,Watch 3 Pro,HarmonyOS,"Bluetooth, Wi-Fi, Cellular",AMOLED,1.43,466 x 466,50,14,Yes,Yes,Yes,$499,0.8159
+OnePlus,Watch,RTOS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50,14,Yes,Yes,Yes,$159,0.9245
+Amazfit,GTR 3,Amazfit OS,"Bluetooth, Wi-Fi",AMOLED,1.39,454 x 454,50,12,Yes,Yes,Yes,$199,1
+Xiaomi,Mi Watch Lite,Proprietary OS,"Bluetooth, Wi-Fi",TFT LCD,1.4,320 x 320,50,9,Yes,Yes,Yes,$59,0.9997
+TicWatch,Pro 3,Wear OS,"Bluetooth, Wi-Fi",AMOLED,1.4,454 x 454,50,45,Yes,Yes,Yes,$299,0.9412
